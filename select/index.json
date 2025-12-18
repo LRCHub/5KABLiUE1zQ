@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "菅田将暉 『ロングホープ・フィリア』",
+  "base_artist": "菅田将暉",
+  "createdAt": "2025-12-18T07:51:13.657633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロングホープ・フィリア",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/01_ロングホープ・フィリア_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロングホープ・フィリア",
+      "artist": "SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/02_ロングホープ・フィリア_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Long Hope Philia (ロングホープ・フィリア Rongu Hōpu Firia)",
+      "artist": "菅田 将暉",
+      "has_synced": true,
+      "path": "select/03_Long_Hope_Philia_(ロングホープ・フィリア_Rongu_Hōpu_Firia)_菅田_将暉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロングホープ・フィリア",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/04_ロングホープ・フィリア_菅田将暉.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロングホープ・フィリア(TV Limited)",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/05_ロングホープ・フィリア(TV_Limited)_菅田将暉.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロングホープ・フィリア(TV Limited)",
+      "artist": "菅田 将暉",
+      "has_synced": true,
+      "path": "select/06_ロングホープ・フィリア(TV_Limited)_菅田_将暉.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロングホープ・フィリア",
+      "artist": "菅田 将暉",
+      "has_synced": true,
+      "path": "select/07_ロングホープ・フィリア_菅田_将暉.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロングホープ・フィリア (TV Limited)",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/08_ロングホープ・フィリア_(TV_Limited)_菅田将暉.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロングホープ・フィリア - Longhope Philia",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/09_ロングホープ・フィリア_-_Longhope_Philia_Masaki_Suda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロングホープ・フィリア",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_01_ロングホープ・フィリア_菅田将暉.txt"
+    }
+  ]
+}
